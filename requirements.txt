@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn>=1.2
+umap-learn
+opencv-python
+joblib
+jupyter
+kagglehub

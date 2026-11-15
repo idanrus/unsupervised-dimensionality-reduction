@@ -1,0 +1,8 @@
+# данные и обученные модели не храним в репозитории (большие)
+data/*
+!data/README.md
+models/*
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
